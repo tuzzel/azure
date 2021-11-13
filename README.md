@@ -1,1 +1,1 @@
-# azure
+# Repository for Azure training
